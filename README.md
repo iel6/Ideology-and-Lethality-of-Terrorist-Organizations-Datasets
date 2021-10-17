@@ -1,8 +1,8 @@
 # Ideology and Lethality of Terrorist Organizations Datasets
 
-I used the data stored in this repository to conduct the research for the article entitled "Ideology and the Lethality of Terrorist Organizations," published XXX in the journal Terrorism and Political Violence. The article can be found here: XXX
+I used the data stored in this repository to conduct the research for the article entitled "Ideology and the Lethality of Terrorist Organizations," published online on October 15, 2021 in the journal Terrorism and Political Violence. The article can be found here: https://www.tandfonline.com/doi/full/10.1080/09546553.2021.1977282
 
-I constructed my two main datasets used with data from two databases: 
+I constructed the two main datasets used with data from two databases: 
   1) The Global Terrorism Database (GTD), housed at the National Consortium for the Study of Terrorism and Responses to Terrorism (START) at the University of Maryland. The GTD is the world's largest database on terrorist attacks, containing event-level data from 1970 to the present. As of October 2019, the GTD is open-access for anyone using it for scholarly, educational, or research purposes. For more information and access to the database, please see START's website: https://www.start.umd.edu/gtd/access/
   2) The Revolutionary and Militant Organizations Dataset (REVMOD), created and maintained by conflict studies scholar Benjamin Acosta and introduced in 2019 (see, https://480e7569-bb4b-49c5-9961-96a05120235a.filesusr.com/ugd/fff6b2_fde9f65702204b3cb269dfa08a2fc03e.pdf). REVMOD contains organization- and organization-year-level data on over 500 "resistance organizations" generally active in the post-WWII period. The dataset is open-access to all as of the time of writing here: https://www.revolutionarymilitant.org/
 
